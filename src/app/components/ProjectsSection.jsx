@@ -53,7 +53,7 @@ const projectsData = [
   {
     id: 6,
     title: "iOS SwiftUI",
-    description: "Project 5 description",
+    description: " ",
     image: "/images/projects/ios.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/Anjalikakade610k/iOS-Development",
