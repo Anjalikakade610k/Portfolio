@@ -7,7 +7,7 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "Crypo Currency Price Management System",
+    title: "Crypto-Currency Price Management System",
     description: "Skills: Java, SpringBoot, SQL, Java Swing",
     image: "/images/projects/crypto.jpeg",
     tag: ["All", "Web"],
